@@ -70,6 +70,7 @@ include('header.php');
                     <li>Search by ID function</li>
                     <li>Search all, or by page</li>
                     <li>Get amount of the requested resource by ID <b class='new'>NEW!</b></li>
+                    <li>Set amount of the requested resource by ID <b class='new'>NEW!</b></li>
                     <li>Increase amount of the requested resource by ID <b class='new'>NEW!</b></li>
                     <li>Decrease amount of the requested resource by ID <b class='new'>NEW!</b></li>
                 </ul>
@@ -84,6 +85,7 @@ include('header.php');
                     <b>General:</b></p>
                 <ul>
                     <li>Wookie encoding</li>
+                    <li>Pagination</li>
                     <li>Creating database and tables with /init <b class='new'>NEW!</b></li>
                     <li>Scraping data from the original swapi.dev with /init <b class='new'>NEW!</b></li>
                 </ul>

@@ -69,9 +69,9 @@ include('header.php');
         })
 
         function updateResults(response) {
+            
             content.empty();
             starships = (JSON.parse(response));
-            console.log(starships['previous']);
             if (typeof starships['previous'] !== 'undefined' && starships['previous'] != null) {
                 $('#arrowleft').show();
                 $('#arrowleft').attr('url', starships['previous']);

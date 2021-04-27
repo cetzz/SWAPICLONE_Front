@@ -45,7 +45,10 @@ include('header.php');
                     endpoints to get, increase, and decrease those amounts. <br> Some resources have not been implemented yet.</p>
                 <br>
                 <p class='title'><b>Can I look at the code and use it?</b></p>
-                <p class='text'>If you find something useful, sure! The proyects was made as a test, so both the API and this are an open source proyect.</p><br>
+                <p class='text'>If you find something useful, sure! The proyects was made as a test, so both the API and this page are an open source proyect.</p>
+                <p  class='text'>Find the code for the API <a href='https://github.com/cetzz/test_LN'>here</a></p>
+                <p  class='text'>Find the code for this webpage <a href='https://github.com/cetzz/SWAPICLONE_Front'>here</a></p>
+                <br>
                 <p class='title'><b>Did you use libraries for these proyects?</b></p>
                 <p class='text'> Yes. <br>
                 For the API, I used the framework Slim 3.

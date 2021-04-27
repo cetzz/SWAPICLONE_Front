@@ -50,11 +50,10 @@ include('header.php');
                 <p  class='text'>Find the code for this webpage <a href='https://github.com/cetzz/SWAPICLONE_Front'>here</a></p>
                 <br>
                 <p class='title'><b>Did you use libraries for these proyects?</b></p>
-                <p class='text'> Yes. <br>
-                For the API, I used the framework Slim 3.
+                <p class='text'> Yes. </p>
+                <p class='text'>For the API, I used the framework Slim 3.</p>
+                <p class='text'>For this page, I used jQuery and <a href='https://ifightcrime.github.io/bootstrap-growl/'>Bootstrap Growl</a></p>
                 <br>
-                For this page, I used jQuery and <a href='https://ifightcrime.github.io/bootstrap-growl/'>Bootstrap Growl</a>
-                </p><br>
                 <p class='title'><b>Personal links</b></p>
                 <p class='text'>You can look at my <a
                         href='https://www.linkedin.com/in/cristian-metz/'>LinkedIn profile</a>, and some of my other

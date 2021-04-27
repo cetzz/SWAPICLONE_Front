@@ -45,14 +45,14 @@ include('header.php');
                     endpoints to get, increase, and decrease those amounts. <br> Some resources have not been implemented yet.</p>
                 <br>
                 <p class='title'><b>Can I look at the code and use it?</b></p>
-                <p class='text'>If you find something useful, sure! The proyects was made as a test, so both the API and this page are an open source proyect.</p>
+                <p class='text'>If you find something useful, sure! The proyects were made as a test, so both the API and this page are an open source proyect.</p>
                 <p  class='text'>Find the code for the API <a href='https://github.com/cetzz/test_LN'>here</a></p>
                 <p  class='text'>Find the code for this webpage <a href='https://github.com/cetzz/SWAPICLONE_Front'>here</a></p>
                 <br>
                 <p class='title'><b>Did you use libraries for these proyects?</b></p>
                 <p class='text'> Yes. </p>
                 <p class='text'>For the API, I used the framework Slim 3.</p>
-                <p class='text'>For this page, I used jQuery and <a href='https://ifightcrime.github.io/bootstrap-growl/'>Bootstrap Growl</a></p>
+                <p class='text'>For this page, I used jQuery, <a href='https://animate.style/'>Animate.css</a>  and <a href='https://ifightcrime.github.io/bootstrap-growl/'>Bootstrap Growl</a></p>
                 <br>
                 <p class='title'><b>Personal links</b></p>
                 <p class='text'>You can look at my <a
